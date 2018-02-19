@@ -4,7 +4,7 @@
      key_name: key1
      group_id: sg-da4a88b1
      instance_type: t2.micro
-     image: ami-531a4c3c
+     image: ami-e60e5a89
      wait: true
      region: ap-south-1
      count: 1
